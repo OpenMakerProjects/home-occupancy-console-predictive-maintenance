@@ -1,0 +1,20 @@
+{
+  "id": 95,
+  "title": "Home Occupancy Console Predictive Maintenance",
+  "repository_slug": "home-occupancy-console-predictive-maintenance",
+  "category": "Smart Home",
+  "platform": "Raspberry Pi Zero 2 W",
+  "platform_family": "python",
+  "difficulty": "Advanced",
+  "estimated_hours": 44,
+  "connectivity": "MQTT",
+  "components": [
+    "OLED display",
+    "door sensor"
+  ],
+  "scope": "Build a smart home prototype that uses OLED display, door sensor to detect early signs of equipment problems. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Predictive Maintenance demonstration with repeatable test steps",
+  "mode": "interactive_monitor",
+  "entrypoint": "src/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
